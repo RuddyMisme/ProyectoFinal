@@ -1,0 +1,12 @@
+controlador\Validar.class
+confi\Conexion.class
+confi\GenerarSerie.class
+modelo\VentaDAO.class
+modelo\Cliente.class
+modelo\Venta.class
+modelo\Producto.class
+modelo\EmpleadoDAO.class
+modelo\ClienteDAO.class
+modelo\ProductoDAO.class
+controlador\Controlador.class
+modelo\Empleado.class

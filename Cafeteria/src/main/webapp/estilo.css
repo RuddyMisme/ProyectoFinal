@@ -1,0 +1,135 @@
+.bodyindex{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('img/5.png');
+    background-size: cover;
+}
+
+#formindex{
+    background-color: darkgoldenrod;
+}
+#labelbien{
+    font-family: 'Ephesis', cursive;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#labelindex{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+#idlogin{
+    font-family: 'Lobster', sans-serif;
+    font-size: 50px;
+
+}
+#btningresar{
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+.bg-warning-dark {
+    background-color: darkgoldenrod; 
+    height: 90px;
+}
+.dropdown-menu text-center{
+    background-color: darkgoldenrod; 
+
+}
+
+#navletras{
+    font-size: 30px;
+    color: black;
+    font-family: 'Agbalumo', cursive;
+}
+#usuletras{
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+#imgpri{
+}
+
+#bodypri{
+
+    background: #212529; /*GOD COLOR NEGRO MUY BUENO*/
+}
+#bobygoblal{
+    background: #c0a080;
+}
+
+/*
+FORMULARIO COLORES 
+*/
+.custom-form {
+    background: #ffbc17; /* Cambié el morado por naranja */
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Arial', sans-serif; /* Cambié el tipo de letra a Arial o cualquier otro que desees */
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+#btncli {
+    background: #c0a080;
+    border: none;
+    color: black;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    border-radius: 8px; /* Agregué el border-radius para esquinas redondeadas */
+    height: 60px; /* Ajusté la altura a un valor más grande */
+}
+
+#h1cli{
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+
+/* 
+ESTILO DE LA TABLA
+*/
+#tcli {
+
+    background: linear-gradient(to bottom right, #343a40, #c0a080,#343a40); /* Naranja */
+    border-radius: 10px;
+    /* Cambié el tipo de letra a Arial o cualquier otro que desees */
+    max-width: 100%; /* Establece el ancho máximo al 100% para ajustarse al iframe */
+    overflow: auto; /* Agrega una barra de desplazamiento si el contenido es demasiado grande */
+    border: none;
+    width: 1000px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #cbbaba;
+}
+
+#tcli th{
+    font-family: 'Agbalumo', cursive;
+    color: #f9ed8a;
+    width: 5rem;
+    height: 4rem;
+    font-size: 20px;
+    border-bottom: solid #c0a080 4px;
+}
+#tcli td {
+    color: #343a40;
+    width: 5rem;
+    height: 4rem;
+    border-bottom: solid  #c0a080 4px; 
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #343a40;
+}
+#ac{
+
+}
+
+
+
+
+
+
+
